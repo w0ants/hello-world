@@ -1,2 +1,2 @@
 # hello-world
-my first attemption in github
+my first attempt in github
